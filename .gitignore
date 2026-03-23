@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+.venv/
+venv/
+.env
+*.log
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+development/
+
+# Claude Code settings (completely ignored)
+.claude/
+
+# GitHub settings (completely ignored)
+.github/
+
+# Roo Code settings (completely ignored)
+.roomodes
+.roo
+
+.vscode/
+
+# AI Agent
+AGENTS.md
